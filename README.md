@@ -30,10 +30,10 @@ Here are some ideas to get you started:
 #### Here is my study projects:
 1. [Payment Processing Service using Spring](https://github.com/RuslanFajziev/PaymentMicroservices)
 2. [Link shortening service using Spring](https://github.com/RuslanFajziev/job4j_url_shortcut)
-3. [Weather forecast in reactive programming mode using Spring](https://github.com/RuslanFajziev/weather_reactive)
-4. [Forum using Spring](https://github.com/RuslanFajziev/job4j_forum)
-5. [TodoList using Servlet API & Hibernate](https://github.com/RuslanFajziev/job4j_todo)
-6. [Cinema Ticket Sales Service using Servlet API & JDBC](https://github.com/RuslanFajziev/job4j_cinema)
+3. [TodoList using Servlet API & Hibernate](https://github.com/RuslanFajziev/job4j_todo)
+4. [Cinema Ticket Sales Service using Servlet API & JDBC](https://github.com/RuslanFajziev/job4j_cinema)
+5. [Weather forecast in reactive programming mode using Spring](https://github.com/RuslanFajziev/weather_reactive)
+6. [Forum using Spring](https://github.com/RuslanFajziev/job4j_forum)
 7. [Car Sales Service using Servlet API & Hibernate](https://github.com/RuslanFajziev/job4j_cars_sales)
 8. [Console CRUD app using Hibernate](https://github.com/RuslanFajziev/job4j_tracker)
 
