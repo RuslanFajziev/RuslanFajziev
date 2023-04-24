@@ -36,7 +36,6 @@ Here are some ideas to get you started:
 6. [Job placement/search service using Servlet API & JDBC](https://github.com/RuslanFajziev/job4j_dreamjob)
 7. [Forum using Spring](https://github.com/RuslanFajziev/job4j_forum)
 8. [Car Sales Service using Servlet API & Hibernate](https://github.com/RuslanFajziev/job4j_cars_sales)
-9. [Console CRUD app using Hibernate](https://github.com/RuslanFajziev/job4j_tracker)
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=RuslanFajziev&hide=stars,prs,issues,contribs)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RuslanFajziev&layout=compact)](https://github.com/RuslanFajziev/github-readme-stats)
