@@ -33,9 +33,10 @@ Here are some ideas to get you started:
 3. [TodoList using Servlet API & Hibernate](https://github.com/RuslanFajziev/job4j_todo)
 4. [Cinema Ticket Sales Service using Servlet API & JDBC](https://github.com/RuslanFajziev/job4j_cinema)
 5. [Weather forecast in reactive programming mode using Spring](https://github.com/RuslanFajziev/weather_reactive)
-6. [Forum using Spring](https://github.com/RuslanFajziev/job4j_forum)
-7. [Car Sales Service using Servlet API & Hibernate](https://github.com/RuslanFajziev/job4j_cars_sales)
-8. [Console CRUD app using Hibernate](https://github.com/RuslanFajziev/job4j_tracker)
+6. [Job placement/search service using Servlet API & JDBC](https://github.com/RuslanFajziev/job4j_dreamjob)
+7. [Forum using Spring](https://github.com/RuslanFajziev/job4j_forum)
+8. [Car Sales Service using Servlet API & Hibernate](https://github.com/RuslanFajziev/job4j_cars_sales)
+9. [Console CRUD app using Hibernate](https://github.com/RuslanFajziev/job4j_tracker)
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=RuslanFajziev&hide=stars,prs,issues,contribs)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RuslanFajziev&layout=compact)](https://github.com/RuslanFajziev/github-readme-stats)
