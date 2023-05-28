@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### My name is Ruslan. Welcom! :wink:
+### My name is Ruslan. Welcome! :wink:
 #### About me
 * I am a programmer from Moscow :computer:
 * I'm learning Java in [Job4j](https://job4j.ru/) :boy:
